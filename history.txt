@@ -1,0 +1,16 @@
+  178  git add Makefile
+  179  cd data
+  180  cd classdata
+  181  git add Makefile
+  182  git add Makefile.txt
+  183  git commit -m "add recipe for column selection"
+  184  git config --local user.email "Dasean@yahoo.com"
+  185  git config --local user.name "DaSean Kornegay"
+  186  git commit -m "Add recipe for column selection"
+  187  git add Makefile.txt
+  188  git config --local user.name "DaSean Kornegay"
+  189  git config --local user.email "Dasean@yahoo.com"
+  190  git commit -m "Add recipe for column selection"
+  191  git add clean/ derived/
+  192  git commit -m "Add recipe for column selection"
+  193  git log
